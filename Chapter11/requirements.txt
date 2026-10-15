@@ -6,7 +6,7 @@ flower==2.0.1
 celery==5.4.0
 stripe==9.3.0
 python-decouple==3.8
-WeasyPrint==61.2
+WeasyPrint==70.0
 redis==5.0.4
 django-rosetta==0.10.0
 django-parler==2.3
